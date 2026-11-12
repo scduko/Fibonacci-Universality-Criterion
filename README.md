@@ -179,8 +179,7 @@ $t$, so Lean keeps the rank as a parameter instead of writing the form out.
 - [docs/PROVENANCE.md](docs/PROVENANCE.md) gives the sources of the explicit
   data: the transfer matrices, the witnesses, and the tables.
 
-**Manuscript.** Scott Duke Kominers, *A Fibonacci Analogue of the Fifteen
-Theorem*, [hexagon:2611.00357v1](https://hexagonmath.org/2611.00357v1).
+**Manuscript.** Scott Duke Kominers, *A Fibonacci Analogue of the Fifteen Theorem*, [hexagon:2611.00357v1](https://hexagonmath.org/2611.00357v1).
 
 ## Build
 
