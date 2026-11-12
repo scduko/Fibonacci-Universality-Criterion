@@ -181,6 +181,8 @@ $t$, so Lean keeps the rank as a parameter instead of writing the form out.
 
 **Manuscript.** Scott Duke Kominers, *A Fibonacci Analogue of the Fifteen Theorem*, [hexagon:2611.00357v1](https://hexagonmath.org/2611.00357v1).
 
+**OEIS sequence.** [A401169](https://oeis.org/A401169), the Fibonacci universality criterion set.
+
 ## Build
 
 Install Lean following the
